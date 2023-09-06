@@ -35,7 +35,7 @@ Text speech AI for free which uses eleven labs API with advanced Python and you 
 
 <b>Example Audio</b>
 
-[Audio.webm](Audio/audio.mp3)
+[Audio.webm](https://github.com/Kamanati/Text-speach-ai/blob/main/Audio/audio.mp3)
 
 </details>
 
