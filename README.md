@@ -26,11 +26,16 @@ Text speech AI for free which uses eleven labs API with advanced Python and you 
 [-] for more use the tool 🤌
 
 ```
+# Examplw Audio #
+<details> <summary> Play </summary>
 
-### supported platforms ###
-- Linux
-- Termux
-- Windows(may not work properly
+<i> Don't forget to unmute the player! </i>
+
+<b>Example Audio</b>
+
+[Audio.mp3](Audio/audio.mp3)
+
+</details>
 
 ## Examples ##
 ```
