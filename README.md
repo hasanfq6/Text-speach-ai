@@ -27,6 +27,37 @@ Text speech AI for free which uses eleven labs API with advanced Python and you 
 
 ```
 
+### supported platforms ###
+- Linux
+- Termux
+- Windows(may not work properly
+
+## Examples ##
+```
+python xmain.py --text "Your Text" --output file.np3
+```
+### From file ###
+```
+python xmain.py --file FILE.txt --line 1 # use --line 001 for full file in one task
+```
+### Output Result 
+```
+Task (14): "Love is the music that makes life's journey sweeter. Dance to its rhythm. Let love fill your heart with joy. Love's melody brings joy to life's dance."
+
+Task completed (14): "Love is the music that makes life's journey sweeter. Dance to its rhythm. Let love fill your heart with joy. Love's melody brings joy to life's dance."
+
+Metadata and image added successfully!
+Task (15): "Success is not about reaching the top, but about enjoying the climb. Find joy in the process. Each step of your journey is meaningful. Success is in the journey itself."
+
+Task completed (15): "Success is not about reaching the top, but about enjoying the climb. Find joy in the process. Each step of your journey is meaningful. Success is in the journey itself."
+
+Metadata and image added successfully!
+```
+it go through the next line as a task 
+### note ###
+The audio files are stored in directory audio in 'Nami' in random formate like 
+Motive_f7fe5cc1.wav
+
 ## Usage ##
 ```
 python xmain.py -h
