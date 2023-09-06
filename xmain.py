@@ -111,12 +111,12 @@ def main():
                     segment_output_file = f"segment_{line_number}_{segment_number}.wav"
                     with open(segment_output_file, "rb") as segment_audio_file:
                         combined_audio += segment_audio_file.read()
-                output_file = f"/Audio/Motive_pri_{str(uuid.uuid4())[:8]}{line_number}.wav"
+                output_file = f"Audio/Motive_pri_{str(uuid.uuid4())[:8]}{line_number}.wav"
 #                output_file = f"output_{line_number}.wav"
                 with open(output_file, "wb") as combined_audio_file:
                     combined_audio_file.write(combined_audio)
                 print(f"\n\033[32mTask completed (\033[36m{line_number}\033[32m)\033[0m: {input_text}\n")
-                os.system(f"python 1sample.py --file {output_file} --image /Audio/1.png")
+                os.system(f"python 1sample.py --file {output_file} --image Audio/1.png")
     elif args.text and args.output:
         # ... (rest of your code)
             input_text = args.text
@@ -158,7 +158,7 @@ def main():
             with open(output_file, "wb") as combined_audio_file:
                 combined_audio_file.write(combined_audio)
             print(f"Combined audio saved as '{output_file}'")
-            os.system(f"python 1sample.py --file {output_file} --image /Audio/1.png")
+            os.system(f"python 1sample.py --file {output_file} --image Audio/1.png")
     else:
         print("Please provide either --file or both --text and --output, -h.")
 
