@@ -27,7 +27,6 @@ Text speech AI for free which uses eleven labs API with advanced Python and you 
 
 ```
 # Examplw Audio #
-`Here is the example Audio`
 
 <details> <summary> Play </summary>
 
@@ -35,7 +34,7 @@ Text speech AI for free which uses eleven labs API with advanced Python and you 
 
 <b>Example Audio</b>
 
-[Audio.webm](https://github.com/Kamanati/Text-speach-ai/blob/main/Audio/audio.mp3)
+https://cdn.whyp.it/5dd2c38d-9afe-44f3-8c55-dbccdb049b39.mp3
 
 </details>
 
