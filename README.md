@@ -90,7 +90,7 @@ options:
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/Kamanati/zphisher" target="_blank"><img src="https://img.shields.io/badge/Github-kamanati-zph-green?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/hasanfq6/zphisher" target="_blank"><img src="https://img.shields.io/badge/Github-kamanati-zph-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.instagram.com/hasanfq6" target="_blank"><img src="https://img.shields.io/badge/IG-%40hasanfq6-red?style=for-the-badge&logo=instagram"></a>
   <a href="https://chat.whatsapp.com/9629013836" target="_blank"><img src="https://img.shields.io/badge/Chat-whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 </p>
